@@ -47,7 +47,7 @@ h3{
   }
 
   .hero {
-    background-image: url('Render 7.png');
+    background-image: url("Render 7.png");
     background-repeat: no-repeat;
     background-size: contain;
     background-position-x: center;
